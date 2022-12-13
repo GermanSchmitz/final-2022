@@ -53,7 +53,6 @@ export default {
             cantidadPesos: undefined,
             inputCheckBox: false,
             urlApi: "https://www.dolarsi.com/api/api.php?type=valoresprincipales",
-            arrApi: [],
         };
     },
     methods: {
